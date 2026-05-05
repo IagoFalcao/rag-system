@@ -1,0 +1,8 @@
+langchain
+llama-index
+faiss-cpu
+chromadb
+fastapi
+uvicorn
+streamlit
+python-dotenv
